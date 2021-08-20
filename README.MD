@@ -1,4 +1,3 @@
-#Teste Técnico
 Olá, muito obrigado pela oportunidade de participar deste processo.
 Adorei o desafio!
 A solução foi desenvolvida em JavaScript e os Testes Automatizados, usando o framework Jasmine.
